@@ -1,0 +1,9 @@
+#Photometry obtained for IRAS04591-0856: RA=05 01 29.6352, Dec=-08 52 16.874, cone search radius=3s
+lam band lamFlam e_lamFlam f_lamFlam u_lamFlam beam obsDate ref
+m -- W/m^2 W/m^2 -- -- arcsec -- --
+9e-06 AKARI:S9W 6.102442033955556e-14 3.597509496000001e-15 -- 3.31 unknown 2010A&A...514A...1I
+1.8e-05 AKARI:L18W 1.0757552701233334e-13 6.395572437333333e-15 -- 6.61 unknown 2010A&A...514A...1I
+3.35e-06 WISE:W1 5.327122382453685e-14 1.0794214276025646e-15 -- 2.1 unknown 2012wise.rept....1C
+4.6e-06 WISE:W2 6.771123747443615e-14 1.247287088294532e-15 -- 2.9 unknown 2012wise.rept....1C
+1.16e-05 WISE:W3 6.215742977699594e-14 8.587366273400106e-16 -- 7.3 unknown 2012wise.rept....1C
+2.21e-05 WISE:W4 6.470425549188002e-15 6.555430382550767e-17 -- 14 unknown 2012wise.rept....1C

@@ -1,0 +1,25 @@
+#Photometry obtained for IRAS03301+3111: RA=03 33 12.8440, Dec=+31 21 24.139, cone search radius=3s
+lam band mag e_mag f_mag u_mag beam obsDate ref
+m -- -- -- -- -- arcsec -- --
+1.25e-06 2MASS:J 12.132 0.019 -- mag 0.24 unknown 2003yCat.2246....0C
+1.65e-06 2MASS:H 10.155 0.016 -- mag 0.32 unknown 2003yCat.2246....0C
+2.15e-06 2MASS:Ks 9.002 0.018 -- mag 0.42 unknown 2003yCat.2246....0C
+3.6e-06 SPITZER:I1 301.0 16.3 -- mJy 1.07 unknown 2003PASP..115..965E
+4.5e-06 SPITZER:I2 435.0 26.9 -- mJy 1.33 unknown 2003PASP..115..965E
+5.8e-06 SPITZER:I3 642.0 31.8 -- mJy 1.72 unknown 2003PASP..115..965E
+8e-06 SPITZER:I4 1120.0 57.5 -- mJy 2.37 unknown 2003PASP..115..965E
+2.4e-05 SPITZER:M1 4040.0 382.0 -- mJy 7.11 unknown 2003PASP..115..965E
+7e-05 SPITZER:M2 3280.0 321.0 -- mJy 20.7 unknown 2003PASP..115..965E
+9e-06 AKARI:S9W 0.7184 0.0745 -- Jy 3.31 unknown 2010A&A...514A...1I
+1.8e-05 AKARI:L18W 2.268 0.0496 -- Jy 6.61 unknown 2010A&A...514A...1I
+6.5e-05 AKARI:N60 3.993 0.333 -- Jy 24 unknown 2010yCat.2298....0Y
+9e-05 AKARI:WIDE-S 4.712 0.182 -- Jy 33 unknown 2010yCat.2298....0Y
+0.00014 AKARI:WIDE-L 3.981 1.2 -- Jy 51 unknown 2010yCat.2298....0Y
+0.00016 AKARI:N160 5.791 1.74 -- Jy 59 unknown 2010yCat.2298....0Y
+3.35e-06 WISE:W1 7.307 0.029 -- mag 2.1 unknown 2012wise.rept....1C
+4.6e-06 WISE:W2 5.853 0.024 -- mag 2.9 unknown 2012wise.rept....1C
+1.16e-05 WISE:W3 3.12 0.012 -- mag 7.3 unknown 2012wise.rept....1C
+2.21e-05 WISE:W4 0.926 0.018 -- mag 14 unknown 2012wise.rept....1C
+6.405e-07 Gaia2:G 18.9855 0.0598 -- mag 0.11 unknown 2018A&A...616A...1G
+5.1311e-07 Gaia2:GBP 21.1876 0.1997 -- mag 0.09 unknown 2018A&A...616A...1G
+7.7776e-07 Gaia2:GRP 17.1398 0.2309 -- mag 0.13 unknown 2018A&A...616A...1G

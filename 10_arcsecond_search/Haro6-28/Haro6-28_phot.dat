@@ -1,0 +1,27 @@
+#Photometry obtained for Haro6-28: RA=04 35 56.8536, Dec=+22 54 36.092, cone search radius=10s
+lam band mag e_mag f_mag u_mag beam obsDate ref
+m -- -- -- -- -- arcsec -- --
+1.25e-06 2MASS:J 11.142 0.022 -- mag 0.24 unknown 2003yCat.2246....0C
+1.65e-06 2MASS:H 10.055 0.022 -- mag 0.32 unknown 2003yCat.2246....0C
+2.15e-06 2MASS:Ks 9.531 0.02 -- mag 0.42 unknown 2003yCat.2246....0C
+9e-06 AKARI:S9W 0.09917 0.00641 -- Jy 3.31 unknown 2010A&A...514A...1I
+1.8e-05 AKARI:L18W -- -- -- Jy 6.61 unknown 2010A&A...514A...1I
+3.35e-06 WISE:W1 8.818 0.023 -- mag 2.1 unknown 2012wise.rept....1C
+4.6e-06 WISE:W2 8.188 0.02 -- mag 2.9 unknown 2012wise.rept....1C
+1.16e-05 WISE:W3 6.353 0.014 -- mag 7.3 unknown 2012wise.rept....1C
+2.21e-05 WISE:W4 4.373 0.023 -- mag 14 unknown 2012wise.rept....1C
+2.12e-07 XMMOM:UVW2 -- -- -- mag 2 unknown 2012MNRAS.426..903P
+2.31e-07 XMMOM:UVM2 -- -- -- mag 2 unknown 2012MNRAS.426..903P
+2.91e-07 XMMOM:UVW1 -- -- -- mag 2 unknown 2012MNRAS.426..903P
+3.44e-07 XMMOM:U 18.9386 0.0385 -- mag 2 unknown 2012MNRAS.426..903P
+4.5e-07 XMMOM:B -- -- -- mag 1.4 unknown 2012MNRAS.426..903P
+5.43e-07 XMMOM:V -- -- -- mag 1.4 unknown 2012MNRAS.426..903P
+6.405e-07 Gaia2:G 14.8751 0.01 -- mag 0.11 unknown 2018A&A...616A...1G
+5.1311e-07 Gaia2:GBP 16.6202 0.0362 -- mag 0.09 unknown 2018A&A...616A...1G
+7.7776e-07 Gaia2:GRP 13.462 0.0198 -- mag 0.13 unknown 2018A&A...616A...1G
+0.00297 IRAM:PdBI:F2970 -- -- -- mJy 4 unknown 2010A&A...512A..15R
+0.00323 IRAM:PdBI:F3230 -- -- -- mJy 4 unknown 2010A&A...512A..15R
+0.00345 IRAM:PdBI:F3450 0.92 0.18 -- mJy 4 unknown 2010A&A...512A..15R
+0.00349 IRAM:PdBI:F3490 -- -- -- mJy 4 unknown 2010A&A...512A..15R
+0.00353 IRAM:PdBI:F3530 -- -- -- mJy 4 unknown 2010A&A...512A..15R
+0.00357 IRAM:PdBI:F3570 -- -- -- mJy 4 unknown 2010A&A...512A..15R

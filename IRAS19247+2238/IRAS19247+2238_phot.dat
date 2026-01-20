@@ -1,0 +1,19 @@
+#Photometry obtained for IRAS 19247+2238: RA=19 26 51.3321, Dec=+22 45 13.449, cone search radius=3s
+lam band mag e_mag f_mag u_mag beam obsDate ref
+m -- -- -- -- -- arcsec -- --
+1.25e-06 2MASS:J 11.095 0.023 -- mag 0.24 unknown 2003yCat.2246....0C
+1.65e-06 2MASS:H 9.881 0.019 -- mag 0.32 unknown 2003yCat.2246....0C
+2.15e-06 2MASS:Ks 9.175 0.018 -- mag 0.42 unknown 2003yCat.2246....0C
+4.29e-06 MSX6C:B1 -13.36 -- -- Jy 3.1 unknown 2003yCat.5114....0E
+4.35e-06 MSX6C:B2 -7.215 -- -- Jy 3.1 unknown 2003yCat.5114....0E
+8.28e-06 MSX6C:A 0.1713 6.9 -- Jy 6.0 unknown 2003yCat.5114....0E
+1.213e-05 MSX6C:C -0.6777 -- -- Jy 8.7 unknown 2003yCat.5114....0E
+1.465e-05 MSX6C:D -0.5199 -- -- Jy 11 unknown 2003yCat.5114....0E
+2.134e-05 MSX6C:E -1.472 -- -- Jy 15 unknown 2003yCat.5114....0E
+3.35e-06 WISE:W1 8.566 0.023 -- mag 2.1 unknown 2012wise.rept....1C
+4.6e-06 WISE:W2 7.857 0.021 -- mag 2.9 unknown 2012wise.rept....1C
+1.16e-05 WISE:W3 5.486 0.016 -- mag 7.3 unknown 2012wise.rept....1C
+2.21e-05 WISE:W4 2.452 0.015 -- mag 14 unknown 2012wise.rept....1C
+6.405e-07 Gaia2:G 15.4911 0.0094 -- mag 0.11 unknown 2018A&A...616A...1G
+5.1311e-07 Gaia2:GBP -- -- -- mag 0.09 unknown 2018A&A...616A...1G
+7.7776e-07 Gaia2:GRP -- -- -- mag 0.13 unknown 2018A&A...616A...1G

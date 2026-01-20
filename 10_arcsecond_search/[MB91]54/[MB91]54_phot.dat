@@ -1,0 +1,26 @@
+#Photometry obtained for [MB91] 54: RA=05 40 20.3110, Dec=-07 56 24.761, cone search radius=10s
+lam band mag e_mag f_mag u_mag beam obsDate ref
+m -- -- -- -- -- arcsec -- --
+1.65e-06 2MASS:H 11.969 0.026 -- mag 0.32 unknown 2003yCat.2246....0C
+2.15e-06 2MASS:Ks 10.908 0.026 -- mag 0.42 unknown 2003yCat.2246....0C
+1.2e-05 IRAS:F12 1.03 0.07209999799728393 -- Jy 5.3 unknown 1988iras....1.....B
+2.5e-05 IRAS:F25 2.44 0.17080000400543213 -- Jy 11 unknown 1988iras....1.....B
+6e-05 IRAS:F60 4.83 0.5312999916076661 -- Jy 26 unknown 1988iras....1.....B
+0.0001 IRAS:F100 15.4 1.5399999618530273 -- Jy 44 unknown 1988iras....1.....B
+3.35e-06 WISE:W1 10.117 0.023 -- mag 2.1 unknown 2012wise.rept....1C
+4.6e-06 WISE:W2 9.096 0.021 -- mag 2.9 unknown 2012wise.rept....1C
+1.16e-05 WISE:W3 7.01 0.019 -- mag 7.3 unknown 2012wise.rept....1C
+2.21e-05 WISE:W4 5.482 0.067 -- mag 14 unknown 2012wise.rept....1C
+3.543e-07 SDSS:AB:u 22.663 0.451 -- mag 0.04 unknown 2012ApJS..203...21A
+4.77e-07 SDSS:AB:g 25.41 0.657 -- mag 0.05 unknown 2012ApJS..203...21A
+6.231e-07 SDSS:AB:r 21.961 0.132 -- mag 0.06 unknown 2012ApJS..203...21A
+7.625e-07 SDSS:AB:i 19.565 0.024 -- mag 0.08 unknown 2012ApJS..203...21A
+9.134e-07 SDSS:AB:z 17.539 0.017 -- mag 0.09 unknown 2012ApJS..203...21A
+3.543e-07 SDSS:AB:u 22.663 0.451 -- mag 0.04 unknown 2015ApJS..219...12A
+4.77e-07 SDSS:AB:g 25.41 0.657 -- mag 0.05 unknown 2015ApJS..219...12A
+6.231e-07 SDSS:AB:r 21.961 0.132 -- mag 0.06 unknown 2015ApJS..219...12A
+7.625e-07 SDSS:AB:i 19.565 0.024 -- mag 0.08 unknown 2015ApJS..219...12A
+9.134e-07 SDSS:AB:z 17.539 0.017 -- mag 0.09 unknown 2015ApJS..219...12A
+6.405e-07 Gaia2:G 20.1303 0.0223 -- mag 0.11 unknown 2018A&A...616A...1G
+5.1311e-07 Gaia2:GBP 21.0059 0.3644 -- mag 0.09 unknown 2018A&A...616A...1G
+7.7776e-07 Gaia2:GRP 18.4073 0.0425 -- mag 0.13 unknown 2018A&A...616A...1G

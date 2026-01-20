@@ -1,0 +1,27 @@
+#Photometry obtained for Elia2-32: RA=16 27 28.4457, Dec=-24 27 21.034, cone search radius=3s
+lam band mag e_mag f_mag u_mag beam obsDate ref
+m -- -- -- -- -- arcsec -- --
+1.25e-06 2MASS:J 15.739 0.119 -- mag 0.24 unknown 2003yCat.2246....0C
+2.15e-06 2MASS:Ks 10.101 0.03 -- mag 0.42 unknown 2003yCat.2246....0C
+0.00035 CSO:SHARCII:F350 -- -- -- mJy 8.5 unknown 2007ApJ...671.1800A
+0.00045 JCMT:SCUBA:F450 -- -- -- mJy 7.8 unknown 2007ApJ...671.1800A
+0.00085 JCMT:SCUBA:F850 -- -- -- mJy 13.8 unknown 2007ApJ...671.1800A
+0.0013 Compiled:F1300 50 -- -- mJy 10 unknown 2007ApJ...671.1800A
+3.6e-06 SPITZER:I1 187.0 11.1 -- mJy 1.07 unknown 2003PASP..115..965E
+4.5e-06 SPITZER:I2 272.0 14.4 -- mJy 1.33 unknown 2003PASP..115..965E
+5.8e-06 SPITZER:I3 382.0 18.4 -- mJy 1.72 unknown 2003PASP..115..965E
+8e-06 SPITZER:I4 481.0 22.9 -- mJy 2.37 unknown 2003PASP..115..965E
+2.4e-05 SPITZER:M1 712.0 66.2 -- mJy 7.11 unknown 2003PASP..115..965E
+7e-05 SPITZER:M2 8790.0 850.0 -- mJy 20.7 unknown 2003PASP..115..965E
+3.6e-06 SPITZER:I1 8.0 0.01 -- mag 1.07 unknown 2009ApJS..184...18G
+4.5e-06 SPITZER:I2 7.1 0.01 -- mag 1.33 unknown 2009ApJS..184...18G
+5.8e-06 SPITZER:I3 6.25 0.01 -- mag 1.72 unknown 2009ApJS..184...18G
+8e-06 SPITZER:I4 5.41 0.01 -- mag 2.37 unknown 2009ApJS..184...18G
+2.4e-05 SPITZER:M1 2.5 0.01 -- mag 7.11 unknown 2009ApJS..184...18G
+9e-06 AKARI:S9W 0.4445 0.0227 -- Jy 3.31 unknown 2010A&A...514A...1I
+1.8e-05 AKARI:L18W 0.7274 0.0689 -- Jy 6.61 unknown 2010A&A...514A...1I
+3.35e-06 WISE:W1 8.162 0.022 -- mag 2.1 unknown 2012wise.rept....1C
+4.6e-06 WISE:W2 6.703 0.02 -- mag 2.9 unknown 2012wise.rept....1C
+1.16e-05 WISE:W3 4.438 0.012 -- mag 7.3 unknown 2012wise.rept....1C
+2.21e-05 WISE:W4 2.473 0.019 -- mag 14 unknown 2012wise.rept....1C
+0.0013 ALMA:F1300 1.84 0.19 -- mJy 0.2 2017Jul 2019MNRAS.482..698C

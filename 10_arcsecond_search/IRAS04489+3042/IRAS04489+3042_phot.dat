@@ -1,0 +1,25 @@
+#Photometry obtained for IRAS04489+3042: RA=04 52 06.6862, Dec=+30 47 17.007, cone search radius=10s
+lam band mag e_mag f_mag u_mag beam obsDate ref
+m -- -- -- -- -- arcsec -- --
+1.25e-06 2MASS:J 14.43 0.03 -- mag 0.24 unknown 2003yCat.2246....0C
+1.65e-06 2MASS:H 12.021 0.021 -- mag 0.32 unknown 2003yCat.2246....0C
+2.15e-06 2MASS:Ks 10.383 0.018 -- mag 0.42 unknown 2003yCat.2246....0C
+0.00085 JCMT:SCUBA:F850 0.26 0.05199999809265137 -- Jy 13.8 unknown 2008ApJS..175..277D
+0.00045 JCMT:SCUBA:F450 -- -- -- Jy 7.8 unknown 2008ApJS..175..277D
+9e-06 AKARI:S9W 0.2628 0.0157 -- Jy 3.31 unknown 2010A&A...514A...1I
+1.8e-05 AKARI:L18W 0.6036 0.0208 -- Jy 6.61 unknown 2010A&A...514A...1I
+6.5e-05 AKARI:N60 1.908 0.166 -- Jy 24 unknown 2010yCat.2298....0Y
+9e-05 AKARI:WIDE-S 2.279 0.136 -- Jy 33 unknown 2010yCat.2298....0Y
+0.00014 AKARI:WIDE-L 3.301 0.69 -- Jy 51 unknown 2010yCat.2298....0Y
+0.00016 AKARI:N160 1.208 -- -- Jy 59 unknown 2010yCat.2298....0Y
+1.2e-05 IRAS:F12 0.33 0.03630000144243241 -- Jy 5.3 unknown 1988iras....1.....B
+2.5e-05 IRAS:F25 1.38 0.15179999947547915 -- Jy 11 unknown 1988iras....1.....B
+6e-05 IRAS:F60 2.38 0.28560001373291016 -- Jy 26 unknown 1988iras....1.....B
+0.0001 IRAS:F100 5.72 0.0 -- Jy 44 unknown 1988iras....1.....B
+3.35e-06 WISE:W1 8.83 0.024 -- mag 2.1 unknown 2012wise.rept....1C
+4.6e-06 WISE:W2 7.552 0.02 -- mag 2.9 unknown 2012wise.rept....1C
+1.16e-05 WISE:W3 5.123 0.016 -- mag 7.3 unknown 2012wise.rept....1C
+2.21e-05 WISE:W4 2.469 0.019 -- mag 14 unknown 2012wise.rept....1C
+6.405e-07 Gaia2:G 20.2563 0.0109 -- mag 0.11 unknown 2018A&A...616A...1G
+5.1311e-07 Gaia2:GBP 21.6152 0.1521 -- mag 0.09 unknown 2018A&A...616A...1G
+7.7776e-07 Gaia2:GRP 17.8274 0.0262 -- mag 0.13 unknown 2018A&A...616A...1G

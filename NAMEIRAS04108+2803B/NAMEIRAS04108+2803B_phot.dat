@@ -1,0 +1,21 @@
+#Photometry obtained for NAME IRAS 04108+2803B: RA=04 13 54.7168, Dec=+28 11 32.899, cone search radius=3s
+lam band mag e_mag f_mag u_mag beam obsDate ref
+m -- -- -- -- -- arcsec -- --
+1.25e-06 2MASS:J 16.481 0.115 -- mag 0.24 unknown 2003yCat.2246....0C
+1.65e-06 2MASS:H 13.376 0.037 -- mag 0.32 unknown 2003yCat.2246....0C
+2.15e-06 2MASS:Ks 11.063 0.021 -- mag 0.42 unknown 2003yCat.2246....0C
+3.6e-06 SPITZER:I1 9.27 0.01 -- mag 1.07 unknown 2009ApJS..184...18G
+4.5e-06 SPITZER:I2 8.06 0.01 -- mag 1.33 unknown 2009ApJS..184...18G
+5.8e-06 SPITZER:I3 6.85 0.01 -- mag 1.72 unknown 2009ApJS..184...18G
+8e-06 SPITZER:I4 5.84 0.01 -- mag 2.37 unknown 2009ApJS..184...18G
+2.4e-05 SPITZER:M1 1.43 0.01 -- mag 7.11 unknown 2009ApJS..184...18G
+9e-06 AKARI:S9W 0.3541 0.0454 -- Jy 3.31 unknown 2010A&A...514A...1I
+1.8e-05 AKARI:L18W 1.601 0.14 -- Jy 6.61 unknown 2010A&A...514A...1I
+1.2e-05 IRAS:F12 0.872 0.06103999853134155 -- Jy 5.3 unknown 1988iras....1.....B
+2.5e-05 IRAS:F25 3.88 0.3492000102996826 -- Jy 11 unknown 1988iras....1.....B
+6e-05 IRAS:F60 7.49 0.6740999794006347 -- Jy 26 unknown 1988iras....1.....B
+0.0001 IRAS:F100 10.9 1.1989999580383301 -- Jy 44 unknown 1988iras....1.....B
+3.35e-06 WISE:W1 9.403 0.023 -- mag 2.1 unknown 2012wise.rept....1C
+4.6e-06 WISE:W2 7.305 0.02 -- mag 2.9 unknown 2012wise.rept....1C
+1.16e-05 WISE:W3 4.272 0.013 -- mag 7.3 unknown 2012wise.rept....1C
+2.21e-05 WISE:W4 1.136 0.009 -- mag 14 unknown 2012wise.rept....1C

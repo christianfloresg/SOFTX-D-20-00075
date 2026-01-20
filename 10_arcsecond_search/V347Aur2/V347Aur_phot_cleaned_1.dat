@@ -1,4 +1,4 @@
-#Photometry obtained for V347 Aur: RA=04 56 57.0215, Dec=+51 30 50.884, cone search radius=3s
+#Photometry obtained for V347 Aur: RA=04 56 57.0215, Dec=+51 30 50.884, cone search radius=10s
 lam band lamFlam e_lamFlam f_lamFlam u_lamFlam beam obsDate ref
 m -- W/m^2 W/m^2 -- -- arcsec -- --
 1.25e-06 2MASS:J 3.858326776928592e-13 7.462665605182654e-15 -- 0.24 unknown 2003yCat.2246....0C

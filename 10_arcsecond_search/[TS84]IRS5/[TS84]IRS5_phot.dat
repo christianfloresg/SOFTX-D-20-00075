@@ -1,0 +1,15 @@
+#Photometry obtained for [TS84] IRS5: RA=19 01 48.056, Dec=-36 57 21.95, cone search radius=10s
+lam band mag e_mag f_mag u_mag beam obsDate ref
+m -- -- -- -- -- arcsec -- --
+2.15e-06 2MASS:Ks 10.07 0.04 -- mag 0.42 unknown 2003yCat.2246....0C
+3.6e-06 SPITZER:I1 7.21 0.01 -- mag 1.07 unknown 2009ApJS..184...18G
+4.5e-06 SPITZER:I2 5.94 0.01 -- mag 1.33 unknown 2009ApJS..184...18G
+5.8e-06 SPITZER:I3 4.99 0.01 -- mag 1.72 unknown 2009ApJS..184...18G
+8e-06 SPITZER:I4 3.97 0.01 -- mag 2.37 unknown 2009ApJS..184...18G
+2.4e-05 SPITZER:M1 -- -- -- mag 7.11 unknown 2009ApJS..184...18G
+9e-06 AKARI:S9W 1.863 0.135 -- Jy 3.31 unknown 2010A&A...514A...1I
+1.8e-05 AKARI:L18W -- -- -- Jy 6.61 unknown 2010A&A...514A...1I
+3.35e-06 WISE:W1 7.652 0.021 -- mag 2.1 unknown 2012wise.rept....1C
+4.6e-06 WISE:W2 5.451 0.024 -- mag 2.9 unknown 2012wise.rept....1C
+1.16e-05 WISE:W3 3.214 0.017 -- mag 7.3 unknown 2012wise.rept....1C
+2.21e-05 WISE:W4 -0.203 0.013 -- mag 14 unknown 2012wise.rept....1C

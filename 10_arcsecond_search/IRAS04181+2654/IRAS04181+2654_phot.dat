@@ -1,0 +1,16 @@
+#Photometry obtained for IRAS 04181+2654: RA=04 21 11.4688, Dec=+27 01 09.404, cone search radius=10s
+lam band mag e_mag f_mag u_mag beam obsDate ref
+m -- -- -- -- -- arcsec -- --
+1.25e-06 2MASS:J 16.222 0.082 -- mag 0.24 unknown 2003yCat.2246....0C
+1.65e-06 2MASS:H 12.647 0.024 -- mag 0.32 unknown 2003yCat.2246....0C
+2.15e-06 2MASS:Ks 10.34 0.025 -- mag 0.42 unknown 2003yCat.2246....0C
+9e-06 AKARI:S9W 0.4061 0.0254 -- Jy 3.31 unknown 2010A&A...514A...1I
+1.8e-05 AKARI:L18W 1.298 0.0157 -- Jy 6.61 unknown 2010A&A...514A...1I
+1.2e-05 IRAS:F12 0.336 0.04367999941110611 -- Jy 5.3 unknown 1988iras....1.....B
+2.5e-05 IRAS:F25 1.2 0.13200000524520875 -- Jy 11 unknown 1988iras....1.....B
+6e-05 IRAS:F60 4.95 0.6929999732971192 -- Jy 26 unknown 1988iras....1.....B
+0.0001 IRAS:F100 8.6 0.0 -- Jy 44 unknown 1988iras....1.....B
+3.35e-06 WISE:W1 9.009 0.024 -- mag 2.1 unknown 2012wise.rept....1C
+4.6e-06 WISE:W2 7.569 0.021 -- mag 2.9 unknown 2012wise.rept....1C
+1.16e-05 WISE:W3 4.875 0.014 -- mag 7.3 unknown 2012wise.rept....1C
+2.21e-05 WISE:W4 1.78 0.017 -- mag 14 unknown 2012wise.rept....1C

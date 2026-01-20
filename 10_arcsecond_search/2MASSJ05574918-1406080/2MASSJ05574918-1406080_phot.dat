@@ -1,0 +1,20 @@
+#Photometry obtained for 2MASS J05574918-1406080: RA=05 57 49.1811, Dec=-14 06 07.992, cone search radius=10s
+lam band mag e_mag f_mag u_mag beam obsDate ref
+m -- -- -- -- -- arcsec -- --
+1.25e-06 2MASS:J 13.48 0.029 -- mag 0.24 unknown 2003yCat.2246....0C
+1.65e-06 2MASS:H 12.138 0.022 -- mag 0.32 unknown 2003yCat.2246....0C
+2.15e-06 2MASS:Ks 11.085 0.021 -- mag 0.42 unknown 2003yCat.2246....0C
+9e-06 AKARI:S9W 0.2621 0.0443 -- Jy 3.31 unknown 2010A&A...514A...1I
+1.8e-05 AKARI:L18W 0.4923 0.0363 -- Jy 6.61 unknown 2010A&A...514A...1I
+3.35e-06 WISE:W1 6.478 0.063 -- mag 2.1 unknown 2012wise.rept....1C
+4.6e-06 WISE:W2 6.953 0.052 -- mag 2.9 unknown 2012wise.rept....1C
+1.16e-05 WISE:W3 4.644 0.029 -- mag 7.3 unknown 2012wise.rept....1C
+2.21e-05 WISE:W4 2.797 0.03 -- mag 14 unknown 2012wise.rept....1C
+5.4e-07 Johnson:V 16.189 0.0 -- mag 2.5 unknown 2015AAS...22533616H
+4.42e-07 Johnson:B 16.796 0.0 -- mag 2.5 unknown 2015AAS...22533616H
+4.77e-07 SDSS:AB:g 16.336 0.065 -- mag 2.5 unknown 2015AAS...22533616H
+6.231e-07 SDSS:AB:r -- -- -- mag 2.5 unknown 2015AAS...22533616H
+7.625e-07 SDSS:AB:i -- -- -- mag 2.5 unknown 2015AAS...22533616H
+6.405e-07 Gaia2:G 16.587 0.0108 -- mag 0.11 unknown 2018A&A...616A...1G
+5.1311e-07 Gaia2:GBP 17.2828 0.0287 -- mag 0.09 unknown 2018A&A...616A...1G
+7.7776e-07 Gaia2:GRP 15.494 0.0374 -- mag 0.13 unknown 2018A&A...616A...1G
