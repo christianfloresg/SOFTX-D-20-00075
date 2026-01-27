@@ -37,7 +37,7 @@ band wvlen F0 ref
 "WISE:W1" 3.368 309.54 'http://irsa.ipac.caltech.edu/Missions/wise.html'
 "WISE:W2" 4.618 171.79 'http://irsa.ipac.caltech.edu/Missions/wise.html'
 "WISE:W3" 12.082 31.676 'http://irsa.ipac.caltech.edu/Missions/wise.html'
-"WISE:W4" 22.194 0.3635 'http://irsa.ipac.caltech.edu/Missions/wise.html'
+"WISE:W4" 22.194 8.3635 'http://irsa.ipac.caltech.edu/Missions/wise.html'
 "UKIDSS:Z" 0.8817 2232 '2006MNRAS.367..454H'
 "UKIDSS:Y" 1.0305 2026 '2006MNRAS.367..454H'
 "UKIDSS:J" 1.2483 1530 '2006MNRAS.367..454H'
